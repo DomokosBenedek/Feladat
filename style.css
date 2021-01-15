@@ -1,0 +1,67 @@
+body{
+     background-color: lightgreen;   
+}
+hr{
+    border: solid, yellow, 2px;
+}
+a{
+    color: grey;
+    text-decoration: none;
+}
+p{
+    text-align: justify ;
+}
+.tabla{
+    
+}
+.oszlop1{
+    text-align: center;
+}
+.oszlop2{
+    color: grey;
+}
+.jobbra{
+    text-align: right;
+}
+.kistabla{
+    text-align: left;
+    width:1000px
+}
+.sarga{
+    background-color: yellow;
+}
+.pulik{
+    margin-bottom: 1000px
+}
+#tortenete{
+    color: yellow;
+}
+#kulleme{
+    color: yellow;
+}
+#szinei{
+    color: yellow;
+}
+#jelleme{
+    color: yellow;
+
+}
+.nagybetus{
+
+}
+.kozepre{
+    align-items: center;
+}
+#hires{
+    color: yellow;
+}
+#meretei{
+    color: yellow;
+    
+}
+#rokonfajtak{
+    color: yellow;
+}
+.jobbkep{
+    vertical-align: right;
+}
