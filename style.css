@@ -48,10 +48,10 @@ p{
 
 }
 .nagybetus{
-
+    text-transform: uppercase;
 }
 .kozepre{
-    align: center;
+    box-align: center;
 }
 #hires{
     color: yellow;
