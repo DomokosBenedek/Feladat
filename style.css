@@ -12,7 +12,9 @@ p{
     text-align: justify ;
 }
 hr{
-    height:2px; border: none ; background-color:yellow;
+    height:2px;
+    border: none;
+    background-color:yellow;
     }
 .tabla{
     margin-left: 80px;
